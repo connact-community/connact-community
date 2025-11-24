@@ -6,7 +6,7 @@ I play World of Warcraft, love medieval fantasy, and build various medieval-styl
 
 [![VK Live](https://img.shields.io/badge/VK_live-DFB8FF?style=for-the-badge&logo=vk&logoColor=black)](https://live.vkvideo.ru/connact)
 [![VK community](https://img.shields.io/badge/VK_community-FFDEB8?style=for-the-badge&logo=vk&logoColor=black)](https://vk.com/connact.community)
-[![GitFlic](https://img.shields.io/badge/GitHub-A6D4FF?style=for-the-badge&logo=github&logoColor=black)](https://gitflic.ru/user/connact)
+[![GitFlic](https://img.shields.io/badge/GitFlic-A6D4FF?style=for-the-badge&logo=git&logoColor=black)](https://gitflic.ru/user/connact)
 [![YouTube channel](https://img.shields.io/badge/YouTube-FFB8B8?style=for-the-badge&logo=youtube&logoColor=black)](https://www.youtube.com/@Connact-yt)
 
 ## 🐧 Favorite OS
