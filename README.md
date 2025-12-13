@@ -9,11 +9,6 @@ I play World of Warcraft, love medieval fantasy, and build various medieval-styl
 [![GitFlic](https://img.shields.io/badge/GitFlic-A6D4FF?style=for-the-badge&logo=git&logoColor=black)](https://gitflic.ru/user/connact)
 [![YouTube channel](https://img.shields.io/badge/YouTube-FFB8B8?style=for-the-badge&logo=youtube&logoColor=black)](https://www.youtube.com/@Connact-yt)
 
-## 🐧 Favorite OS
-
-[![Debian 13](https://img.shields.io/badge/Debian_13-DD88A0?style=for-the-badge&logo=debian&logoColor=black)](https://www.debian.org/)
-[![Windows 11](https://img.shields.io/badge/Windows_11-A6D4FF?style=for-the-badge&logo=windows11&logoColor=black)](https://www.microsoft.com/windows/windows-11)
-
 ## 🪴 Technologies I use
 
 [![C#](https://img.shields.io/badge/C%23-D9C6F0?style=for-the-badge&logo=csharp&logoColor=black)](https://dotnet.microsoft.com/ru-ru/languages/csharp)
