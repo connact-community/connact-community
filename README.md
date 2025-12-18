@@ -16,34 +16,10 @@ I play World of Warcraft, love medieval fantasy, and build various medieval-styl
 [![CSS](https://img.shields.io/badge/CSS-A2D5E5?style=for-the-badge&logo=css3&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML](https://img.shields.io/badge/HTML-F9C7C7?style=for-the-badge&logo=html5&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-## 🏔️ Programs I use
-
-[![VS Code](https://img.shields.io/badge/VS_Code-9EC8E6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![PowerToys](https://img.shields.io/badge/PowerToys-F9C8D6?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/microsoft/PowerToys)
-[![Obsidian](https://img.shields.io/badge/Obsidian-7C87BC?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/)
-[![Aseprite](https://img.shields.io/badge/Aseprite-D6D6D6?style=for-the-badge&logo=aseprite&logoColor=black)](https://www.aseprite.org/)
-[![MCreator](https://img.shields.io/badge/MCreator-85CB9C?style=for-the-badge&logo=minecraft&logoColor=black)](https://mcreator.net/)
-
 > **Note:**
 > I'm not the author of this pixel art, but I really like it.
 
 ![Header](.github/img/header.gif)
-
-### 🚀 Current development
-
-📂 <a href="#" target="_blank" rel="noopener noreferrer" alt="?">?</a> (?)<br>
-
-### ❄️ Development is frozen
-
-📂 <a href="#" target="_blank" rel="noopener noreferrer" alt="?">?</a> (?)<br>
-
-### 🏝️ Development completed
-
-📂 <a href="#" target="_blank" rel="noopener noreferrer" alt="?">?</a> (?)<br>
-
-### 🪨 Support has ended
-
-📂 <a href="#" target="_blank" rel="noopener noreferrer" alt="?">?</a> (?)<br>
 
 ### 📌 My VScode configuration
 
