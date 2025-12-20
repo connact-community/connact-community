@@ -1,4 +1,4 @@
-# 🏝️ > Connact\_
+# 🏝️ >Connact\_
 
 I'm a little interested in C# programming, nothing special, a lot of crap code, but I'm okay with it.</br>
 I broadcast live on various games on my [VK Live channel](https://live.vkvideo.ru/connact)
