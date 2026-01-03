@@ -4,8 +4,6 @@ I mainly do live streams of some games and enjoy programming in C#.
 
 ## 🪴 Technologies | Links 
 <div align="center">
-
-<div align="center">
   <img src=".github/img/cpp.png" alt="C++" width="40" height="50" />
   <img src=".github/img/csharp.png" alt="C#" width="50" height="50" />
   <img src=".github/img/blazor.png" alt="Blazor" width="50" height="50" />
