@@ -10,6 +10,7 @@ I mainly do live streams of some games and enjoy programming in C#.
   <img src=".github/img/dotnet.png" alt="DotNet" width="50" height="50" />
   <img src=".github/img/css.png" alt="CSS" width="40" height="50" />
   <img src=".github/img/html.png" alt="HTML" width="50" height="50" />
+  
 [![VK Live](https://img.shields.io/badge/VK_live-DFB8FF?style=for-the-badge&logo=vk&logoColor=black)](https://live.vkvideo.ru/connact)
 [![VK community](https://img.shields.io/badge/VK_community-FFDEB8?style=for-the-badge&logo=vk&logoColor=black)](https://vk.com/connact.community)
 [![GitFlic](https://img.shields.io/badge/GitFlic-A6D4FF?style=for-the-badge&logo=git&logoColor=black)](https://gitflic.ru/user/connact)
