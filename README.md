@@ -6,9 +6,11 @@ I mainly do live streams of some games and enjoy programming in C#.
 <div align="center">
 
 <div align="center">
-  <img src=".github/img/cpp.png" alt="C#" width="50" height="50" />
-  <img src=".github/img/csharp.png" alt="Blazor" width="50" height="50" />
-  <img src=".github/img/css.png" alt="CSS" width="50" height="50" />
+  <img src=".github/img/cpp.png" alt="C++" width="40" height="50" />
+  <img src=".github/img/csharp.png" alt="C#" width="50" height="50" />
+  <img src=".github/img/blazor.png" alt="Blazor" width="50" height="50" />
+  <img src=".github/img/dotnet.png" alt="DotNet" width="50" height="50" />
+  <img src=".github/img/css.png" alt="CSS" width="40" height="50" />
   <img src=".github/img/html.png" alt="HTML" width="50" height="50" />
 </div>
 
