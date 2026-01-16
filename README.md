@@ -17,6 +17,6 @@ I create console and UI programs in C# and websites for myself.
 
 ### 📌 My VScode configuration
 
-📂 <a href="#" target="_blank" rel="noopener noreferrer" alt="My settings for VScode">My settings for VScode</a> (Settings, snippets, keybindings)<br>
+📂 <a href="https://github.com/connact-community/VScode-settings/tree/main" target="_blank" rel="noopener noreferrer" alt="My settings for VScode">My settings for VScode</a> (Settings, snippets, keybindings)<br>
 
 </div>
