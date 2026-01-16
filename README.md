@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🏝️ >Connact\_
 
-<!--
-**connact-community/connact-community** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I create console and UI programs in C# and websites for myself.
 
-Here are some ideas to get you started:
+## 🪴 Technologies I use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src=".github/img/csharp.png" alt="C#" width="50" height="50" />
+  <img src=".github/img/blazor.png" alt="Blazor" width="50" height="50" />
+  <img src=".github/img/css.png" alt="CSS" width="40" height="50" />
+  <img src=".github/img/html.png" alt="HTML" width="50" height="50" />
+  
+[![VK Live](https://img.shields.io/badge/VK_live-DFB8FF?style=for-the-badge&logo=vk&logoColor=black)](https://live.vkvideo.ru/connact)
+[![VK community](https://img.shields.io/badge/VK_community-FFDEB8?style=for-the-badge&logo=vk&logoColor=black)](https://vk.com/connact.community)
+[![GitFlic](https://img.shields.io/badge/GitFlic-A6D4FF?style=for-the-badge&logo=git&logoColor=black)](https://gitflic.ru/user/connact)
+[![YouTube channel](https://img.shields.io/badge/YouTube-FFB8B8?style=for-the-badge&logo=youtube&logoColor=black)](https://www.youtube.com/@Connact-yt)
+
+### 📌 My VScode configuration
+
+📂 <a href="#" target="_blank" rel="noopener noreferrer" alt="My settings for VScode">My settings for VScode</a> (Settings, snippets, keybindings)<br>
+
+</div>
