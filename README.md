@@ -18,8 +18,7 @@
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/windows11/windows11-original.svg" title="Windows-11" alt="Windows-11" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/neovim/neovim-original.svg" title="Neovim" alt="Neovim" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/65011256?s=200&v=4" title="Obsidian" alt="Obsidian" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chromium" alt="Chromium" width="40" height="40"/>&nbsp;
 </div>
@@ -28,7 +27,6 @@
 
 ### My configs:
 
-📂 <a href="#" target="_blank" rel="noopener noreferrer" alt="My DotFiles">My DotFiles</a> (Alacritty, nvim, ranger...)<br>
 📂 <a href="#" target="_blank" rel="noopener noreferrer" alt="My settings for VScode">My settings for VScode</a> (Settings, snippets, keybindings)<br>
 
 ---
