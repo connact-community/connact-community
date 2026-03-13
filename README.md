@@ -27,7 +27,7 @@
 
 ### My configs:
 
-📂 <a href="#" target="_blank" rel="noopener noreferrer" alt="My settings for VScode">My settings for VScode</a> (Settings, snippets, keybindings)<br>
+📂 <a href="https://github.com/connact-community/VScode-settings" target="_blank" rel="noopener noreferrer" alt="My settings for VScode">My settings for VScode</a> (Settings, snippets, keybindings)<br>
 
 ---
 
