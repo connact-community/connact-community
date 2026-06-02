@@ -35,7 +35,7 @@ public class AboutMe
   
 ### My configs
 
-📂 <a href="" target="_blank" rel="noopener noreferrer" alt="vscode-settings">vscode-settings</a> (Settings, snippets, keybindings)<br>
+📂 <a href="https://github.com/connact-community/vscode-settings" target="_blank" rel="noopener noreferrer" alt="vscode-settings">vscode-settings</a> (Settings, snippets, keybindings)<br>
 
 ---
 
