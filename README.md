@@ -5,32 +5,16 @@
 ### Technologies & Tools 
   
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/csharp/csharp-original.svg" title="C#" width="48" height="48" hspace="5"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" width="48" height="48" hspace="5"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" width="48" height="48" hspace="5"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" width="48" height="48" hspace="5"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="48" height="48" hspace="5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VSCode" width="48" height="48" hspace="5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" title="Win11" width="48" height="48" hspace="5"/>
-  <img src="https://avatars.githubusercontent.com/u/65011256?s=200&v=4" title="Obsidian" width="48" height="48" hspace="5"/>
+  <img src="https://github.com/connact-community/icons/blob/main/src/icons/csharp-original.webp?raw=true" title="C#" width="48" height="48" hspace="5"/>
+  <img src="https://github.com/connact-community/icons/blob/main/src/icons/javascript-original.webp?raw=true" title="JS" width="48" height="48" hspace="5"/>
+  <img src="https://github.com/connact-community/icons/blob/main/src/icons/css3-original.webp?raw=true" title="CSS" width="48" height="48" hspace="5"/>
+  <img src="https://github.com/connact-community/icons/blob/main/src/icons/html5-original.webp?raw=true" title="HTML" width="48" height="48" hspace="5"/>
+  <img src="https://github.com/connact-community/icons/blob/main/src/icons/git-original.webp?raw=true" title="Git" width="48" height="48" hspace="5"/>
+  <img src="https://github.com/connact-community/icons/blob/main/src/icons/vscode-original.webp?raw=true" title="VSCode" width="48" height="48" hspace="5"/>
+  <img src="https://github.com/connact-community/icons/blob/main/src/icons/windows-original.webp?raw=true" title="Windows" width="48" height="48" hspace="5"/>
+  <img src="https://github.com/connact-community/icons/blob/main/src/icons/obsidian-original.webp?raw=true" title="Obsidian" width="48" height="48" hspace="5"/>
 </div>
 
-### About Me
-
-<div align="left">
-
-```csharp
-public class AboutMe
-{
-    public string Name = "Connact";
-    public string Role = "Developer & streamer";
-    public string Location = "Incheon";
-    public string[] CodeLanguages = { "C#", "JavaScript", "CSS", "HTML" };
-    public string[] Hobbies = { "Developing", "Gaming", "Reading" };
-    
-    public string MyMotto() => "C# shit code & shit projects";
-}
-```
 <div align="left">
   
 ### My configs
