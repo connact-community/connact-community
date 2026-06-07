@@ -24,6 +24,12 @@
 ---
 
 <p align="center">
+  <a href="https://altlinux.space/connact">
+    <img src="https://img.shields.io/badge/AltLinux_Space-1a1e24?style=for-the-badge&labelColor=1a1e24&color=2d2f36">
+  </a>
+  <a href="https://gitverse.ru/Connact">
+    <img src="https://img.shields.io/badge/GitVerse-1a1e24?style=for-the-badge&labelColor=1a1e24&color=2d2f36">
+  </a>
   <a href="https://gitflic.ru/user/connact">
     <img src="https://img.shields.io/badge/GitFlick-1a1e24?style=for-the-badge&labelColor=1a1e24&color=2d2f36">
   </a>
