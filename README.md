@@ -9,9 +9,12 @@
   <img src="https://github.com/connact-community/icons/blob/main/src/icons/javascript-original.webp?raw=true" title="JS" width="48" height="48" hspace="5"/>
   <img src="https://github.com/connact-community/icons/blob/main/src/icons/css3-original.webp?raw=true" title="CSS" width="48" height="48" hspace="5"/>
   <img src="https://github.com/connact-community/icons/blob/main/src/icons/html5-original.webp?raw=true" title="HTML" width="48" height="48" hspace="5"/>
+  <img src="https://github.com/connact-community/icons/blob/main/src/icons/lua-original.webp?raw=true" title="lua" width="48" height="48" hspace="5"/>
+  <img src="https://github.com/connact-community/icons/blob/main/src/icons/sqf-original.webp?raw=true" title="sqf" width="48" height="48" hspace="5"/>
   <img src="https://github.com/connact-community/icons/blob/main/src/icons/git-original.webp?raw=true" title="Git" width="48" height="48" hspace="5"/>
   <img src="https://github.com/connact-community/icons/blob/main/src/icons/vscode-original.webp?raw=true" title="VSCode" width="48" height="48" hspace="5"/>
   <img src="https://github.com/connact-community/icons/blob/main/src/icons/windows-original.webp?raw=true" title="Windows" width="48" height="48" hspace="5"/>
+  <img src="https://github.com/connact-community/icons/blob/main/src/icons/mcreator-original.webp?raw=true" title="Mcreator" width="48" height="48" hspace="5"/>
   <img src="https://github.com/connact-community/icons/blob/main/src/icons/obsidian-original.webp?raw=true" title="Obsidian" width="48" height="48" hspace="5"/>
 </div>
 
